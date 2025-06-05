@@ -8,9 +8,9 @@ Requirements
 sudo apt install ruby
 ```
 How to use:
-Windows:
-Double click copy_start_windows or ./bin/copy_start_windows
+- Windows:
+  - Double click copy_start_windows.bat or ./bin/copy_start_windows.bat
 
-Linux/macOS:
-chmod +x bin/copy_start_linuxmac
-./bin/copy_start_linuxmac
+- Linux/macOS:
+  - chmod +x bin/copy_start_linuxmac
+  - ./bin/copy_start_linuxmac.sh
